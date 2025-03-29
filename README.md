@@ -1,4 +1,4 @@
-Este repositório contém a implementação de um teste técnico para estágio em Engenharia de Software, abordando três principais desafios:
+Este repositório contém a implementação de um teste técnico para estágio em Engenharia de Software, abordando  desafios:
 
 🖥️ 1. Web Scraping
 Acesso ao site da ANS: Link
